@@ -23,7 +23,6 @@
 * [cite_start]**Geographical Map:** Shows Test cricket is heavily concentrated in Commonwealth nations[cite: 12, 165].
 * [cite_start]**Trend Line:** Reveals a massive spike in scoring starting from the 1970s, correlating with the commercialization of the sport[cite: 14, 166].
 
-*(Note: Add screenshot of Page 1 here)*
 
 ### 2. Deep Dive Analysis
 [cite_start]Engineered for exploratory analysis of performance nuances and head-to-head records[cite: 169].
@@ -31,7 +30,6 @@
 * [cite_start]**Fortress Analysis:** A side-by-side comparison of Home vs. Away wins, proving the "Home Advantage" across teams[cite: 16, 171].
 * [cite_start]**The Funnel:** Ranks the top distinct wicket-taking nations to honor the bowlers[cite: 17, 172].
 
-*(Note: Add screenshot of Page 2 here)*
 
 ## Key Insights
 * [cite_start]**The "Big Two":** England and Australia account for 40% of all historical runs and wickets[cite: 20, 356].
